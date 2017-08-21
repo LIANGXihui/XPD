@@ -1,5 +1,3 @@
-The content of this file is the same with "README.MD".
-
 This is a package written in IGOR Pro scripting language for XPD (X-ray photoelectron diffraction) data acquisition, displaying, process, and analysis. 
 
 The XPD package is written in the programming language of IGOR Pro version 6.3.2. It requires Igor Pro 6.3 or later to run the package.
