@@ -6,7 +6,7 @@ The XPD package is written in the programming language of IGOR Pro version 6.3.2
 
 "XPD.ipf" is the script file of the package. Please read "XPD Package Manual.pdf" for how to install and use the package.
 
-"Dispersion_Factors.txt" is the dispersion factors for Omicron Argus analyzer, from which the following two data samples are acquired. If it’s the first time to start acquisition after the XPD package installation for testing the following two data samples, an error message will pop up to let users know that there are no dispersion factors and ask the user to import the dispersion factors manually by clicking XPD menu -> Import dispersion factors.
+"Dispersion_Factors_Argus.txt" is the dispersion factors for Omicron Argus analyzer, from which the following two data samples are acquired. If it’s the first time to start acquisition after the XPD package installation for testing the following two data samples, an error message will pop up to let users know that there are no dispersion factors and ask the user to import the dispersion factors manually by clicking XPD menu -> Import dispersion factors.
 
 "Data_Sample_1_Core_Level.csv" and "Data_Sample_2_Core_Levels.csv" are two data samples for testing.
 
