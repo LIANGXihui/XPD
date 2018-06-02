@@ -16,6 +16,6 @@ The package provides an easy-to-use suite of tools for displaying, processing an
 
 The package was initially designed to interface directly with an XPD system (using Omicron Argus spectrometer) at the Saclay center of the French Alternative Energies and Atomic Energy Commission (CEA), but the algorithms are generally applicable and can be readily adapted to other XPD systems since the package just reads out the data exported from a spectrometer. Users can modify only some parts of the code, for example, the data reading module, to make the package read the XPD data exported from another spectrometer so that the package is adapted to another XPD experiment system since the principle of XPD data processing is the same and most function modules can be called without modification. 
 
-Anyone who uses this package, in publication please reference "Liang, X., Lubin, C., Mathieu, C. & Barrett, N. (2018). J. Appl. Cryst. 51 , https://doi.org/10.1107/S1600576718004314." .
+Anyone who uses this package, in publication please reference "Liang, X., Lubin, C., Mathieu, C. & Barrett, N. (2018). J. Appl. Cryst. 51(3), 935-942., https://doi.org/10.1107/S1600576718004314."
 
 Disclaimer: This package is free for non-commercial use; you can redistribute it and/or modify it for non-commercial purpose. The commercial right is reserved. This package is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
